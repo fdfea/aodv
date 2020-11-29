@@ -1,7 +1,7 @@
 # AODV
 
-This project is an implementation of the Ad Hoc On-Demand Distance Vector (AODV) routing 
-algorithm. 
+An implementation of the Ad Hoc On-Demand Distance Vector (AODV) routing 
+algorithm in C. 
 
 **NOTE: Some of the source code for this application was omitted as it targeted
 a proprietary device. An empty block comment indicates that code was removed. 
